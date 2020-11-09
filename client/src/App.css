@@ -1,7 +1,17 @@
-main {
-  min-height: 90vh;
-}
-h3 {
+h1 {
   display: flex;
   justify-content: center;
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+}
+.main {
+  display: flex;
+  justify-content: center;
+  min-height: 80vh;
+}
+.infodiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10vh;
 }
